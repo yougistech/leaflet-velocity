@@ -107,4 +107,4 @@ CSIRO Open Source Software Licence Agreement (variation of the BSD / MIT License
 
 ## 解决风场在百度地图（百度坐标系）下加载显示异常的问题
 
-[EPSG 4326 projection support? #15]([https://github.com/onaci/leaflet-velocity/issues/15)
+- [EPSG 4326 projection support? #15]([https://github.com/onaci/leaflet-velocity/issues/15)
