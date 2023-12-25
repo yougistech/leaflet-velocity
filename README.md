@@ -104,3 +104,7 @@ CSIRO Open Source Software Licence Agreement (variation of the BSD / MIT License
 [npm-image]: https://badge.fury.io/js/leaflet-velocity.svg
 [npm-url]: https://www.npmjs.com/package/leaflet-velocity
 [npm-downloads-image]: https://img.shields.io/npm/dt/leaflet-velocity.svg
+
+## 解决风场在百度地图（百度坐标系）下加载显示异常的问题
+
+[EPSG 4326 projection support? #15]([https://github.com/onaci/leaflet-velocity/issues/15)
